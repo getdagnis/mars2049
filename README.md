@@ -1,4 +1,4 @@
-# mars2049 was a board game i created and published via my own company back in 2013-2015
+# mars2049 was a board game i created and published via my own company back in 2013-2018
 
 ### this website was originally hosted and managed via worpdpress with a static landing page on top
 
