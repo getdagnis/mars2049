@@ -6,4 +6,4 @@
 
 ### in 2023 i finally managed to restore a semi-working version from web archive by using this tool: `gem install wayback_machine_downloader`
 
-### some manual cleanup was needed, the code was ugly, but at least the site is back online now:
+### some manual cleanup was needed, the code was ugly, but at least the site is back online now: https://missiontomars2049.netlify.app/
